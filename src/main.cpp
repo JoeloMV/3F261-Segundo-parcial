@@ -9,6 +9,6 @@ int main (int arg, char const *arv[])
     serie.MostrarFocos();
     serie.ApagarFocos();
     serie.MostrarFocos();
-    
+
     return 0;
 }
